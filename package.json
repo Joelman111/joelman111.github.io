@@ -1,7 +1,6 @@
 {
   "name": "joelman111.github.io",
   "version": "0.1.0",
-  "homepage": "https://joelman111.github.io/joelman111",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
